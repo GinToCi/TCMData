@@ -1,185 +1,185 @@
-1 桂枝汤
-2 生姜
-3 海藻
-4 葶苈
-5 川芎
-6 通草
-7 紫石英
-8 栀子
-9 乌梅
-10 胶饴
-11 鼠妇
-12 菊花
-13 柏皮
-14 梓白皮
-15 葱白
-16 败酱
-17 甘李根白皮
-18 白头翁
-19 芍药
-20 五味子
-21 竹茹
-22 鸡子黄
-23 瓜蒂
-24 寒水石
-25 马通汁
-26 石韦
-27 文蛤
-28 半
-29 柏叶
-30 百合
-31 桅子
-32 乌头
-33 苦参
-34 桑东南根
-35 厚朴
-36 蜂窠
-37 附子
-38 苇茎
-39 麦门冬
-40 锻灶下灰
-41 生狼牙
-42 黄芪
-43 桔梗
-44 黄连
-45 薯蓣
-46 赤小豆
-47 人尿
-48 羊肉
-49 连翘
-50 猪胆汁
-51 土瓜根
-52 白石脂
-53 秦皮
-54 干苏叶
-55 禹余粮
-56 豉
-57 猪膏
-58 香鼓
-59 大戟
-60 石膏
-61 杏仁
-62 葵子
-63 防风
-64 川乌
-65 贝母
-66 当归
-67 芒消
-68 肉豆蔻
-69 大黄
-70 栝楼
-71 五味
-72 商陆根
-73 云母
-74 蜇虫
-75 半夏
-76 蛴螬
-77 水蛭
-78 虻虫
-79 黄孽
-80 巴豆
-81 阿胶
-82 香豉
-83 牡蛎
-84 川椒
-85 柴胡
-86 代赭石
-87 葶苈子
-88 蜜
-89 五苓散
-90 豆鼓
-91 竹叶
-92 旋覆花
-93 升麻
-94 独活
-95 黄芩
-96 薤白
-97 白鱼
-98 艾
-99 鸡子
-100 细辛
-101 干姜
-102 栝楼根
-103 射干
-104 麻黄
-105 矾石
-106 蜘蛛
-107 龙骨
-108 麻子仁
-109 白薇
-110 铅丹
-111 山茱萸
-112 栝楼实
-113 戎盐
-114 茵陈蒿
-115 萎蕤
-116 天门冬
-117 麻仁
-118 赤硝
-119 芫花
-120 吴茱萸
-121 泽泻
-122 乱发
-123 牡丹
-124 人参
-125 蜀漆
-126 雄黄
-127 紫菀
-128 地黄
-129 生葛
-130 蒲灰
-131 泽漆
-132 瞿麦
-133 枣
-134 赤石脂
-135 天雄
-136 荜茇
-137 桃仁
-138 甘草
-139 白术
-140 紫参
-141 白酒
-142 滑石
-143 橘皮
-144 苦酒
-145 生地黄
-146 猪苓
-147 皂荚
-148 白蜜
-149 防己
-150 硝石
-151 盐
-152 粳米
-153 白前
-154 瓜子
-155 生地黄汁
-156 艾叶
-157 黄柏
-158 款冬花
-159 木防己
-160 灶中黄土
-161 酸枣仁
-162 芒硝
-163 诃子
-164 清酒
-165 薏苡仁
-166 蜀椒
-167 桂枝
-168 瓜瓣
-169 王不留行
-170 蒴翟细叶
-171 干漆
-172 甘遂
-173 大枣
-174 粉
-175 小麦
-176 椒目
-177 鳖甲
-178 枳实
-179 蜣螂
-180 紫葳
-181 生竹茹
-182 葛根
-183 牡丹皮
-184 知母
-185 茯苓
+1,Guizhitang
+2,Shengjiang
+3,Haizao
+4,Tingli
+5,Chuanqiong
+6,Tongcao
+7,Zishiying
+8,Zhizi
+9,Wumei
+10,Jiaoyi
+11,Shufu
+12,Juhua
+13,Baipi
+14,Zibaipi
+15,Congbai
+16,Baijiang
+17,Ganligenbaipi
+18,Baitouweng
+19,Shaoyao
+20,Wuweizi
+21,Zhuru
+22,Jizihuang
+23,Guadi
+24,Hanshuishi
+25,Matongzhi
+26,Shiwei
+27,Wenge
+28,Ban
+29,Baiye
+30,Baihe
+31,Weizi
+32,Wutou
+33,Kushen
+34,Sangdongnangen
+35,Houpo
+36,Fengke
+37,Fuzi
+38,Weijing
+39,Maimendong
+40,Duanzaoxiahui
+41,Shenglangya
+42,Huangqi
+43,Jiegeng
+44,Huanglian
+45,Shuyu
+46,Chixiaodou
+47,Renniao
+48,Yangrou
+49,Lianqiao
+50,Zhudanzhi
+51,Tuguagen
+52,Baishizhi
+53,Qinpi
+54,Gansuye
+55,Yuyuliang
+56,Shi
+57,Zhugao
+58,Xianggu
+59,Daji
+60,Shigao
+61,Xingren
+62,Kuizi
+63,Fangfeng
+64,Chuanwu
+65,Beimu
+66,Danggui
+67,Mangxiao
+68,Roudoukou
+69,Daihuang
+70,Gualou
+71,Wuwei
+72,Shanglugen
+73,Yunmu
+74,Zhechong
+75,Banxia
+76,Qicao
+77,Shuizhi
+78,Mengchong
+79,Huangnie
+80,Badou
+81,Ejiao
+82,Xiangshi
+83,Muli
+84,Chuanjiao
+85,Chaihu
+86,Daizheshi
+87,Tinglizi
+88,Mi
+89,Wulingsan
+90,Dougu
+91,Zhuye
+92,Xuanfuhua
+93,Shengma
+94,Duhuo
+95,Huangqin
+96,Xiebai
+97,Baiyu
+98,Ai
+99,Jizi
+100,Xixin
+101,Ganjiang
+102,Gualougen
+103,Yegan
+104,Mahuang
+105,Fanshi
+106,Zhizhu
+107,Longgu
+108,Maziren
+109,Baiwei
+110,Qiandan
+111,Shanzhuyu
+112,Gualoushi
+113,Rongyan
+114,Yinchenhao
+115,Weirui
+116,Tianmendong
+117,Maren
+118,Chixiao
+119,Yuanhua
+120,Wuzhuyu
+121,Zexie
+122,Luanfa
+123,Mudan
+124,Renshen
+125,Shuqi
+126,Xionghuang
+127,Ziwan
+128,Dihuang
+129,Shengge
+130,Puhui
+131,Zeqi
+132,Qumai
+133,Zao
+134,Chishizhi
+135,Tianxiong
+136,Biba
+137,Taoren
+138,Gancao
+139,Baizhu
+140,Zican
+141,Baijiu
+142,Huashi
+143,Jupi
+144,Kujiu
+145,Shengdihuang
+146,Zhuling
+147,Zaojia
+148,Baimi
+149,Fangji
+150,Xiaoshi
+151,Yan
+152,Jingmi
+153,Baiqian
+154,Guazi
+155,Shengdihuangzhi
+156,Aiye
+157,Huangbai
+158,Kuandonghua
+159,Mufangji
+160,Zaozhonghuangtu
+161,Suanzaoren
+162,Mangxiao
+163,Hezi
+164,Qingjiu
+165,Yiyiren
+166,Shujiao
+167,Guizhi
+168,Guaban
+169,Wangbuliuxing
+170,Shuodixiye
+171,Ganqi
+172,Gansui
+173,Dazao
+174,Fen
+175,Xiaomai
+176,Jiaomu
+177,Biejia
+178,Zhishi
+179,Qianglang
+180,Ziwei
+181,Shengzhuru
+182,Gegen
+183,Mudanpi
+184,Zhimu
+185,Fuling
